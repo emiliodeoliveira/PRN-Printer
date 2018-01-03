@@ -1,5 +1,5 @@
 @echo off
-title PRN Printer - v0.3
+title PRN Printer - v0.4
 REM Ferramenta para impressão de arquivos PRN. Para atualizações, acesse o repositório no GitHub.
 REM Repositório: https://github.com/emiliodeoliveira/PRN-Printer
 REM E-mail: emilio.oliveira@safelight.info
@@ -10,7 +10,7 @@ mode 57,35
 :MENU
 echo.
 echo ===================================================
-echo PRN Printer - v0.2
+echo PRN Printer - v0.4
 echo ===================================================
 echo 1. Imprimir do diretorio TEMP
 echo 2. Imprimir de outro diretorio
